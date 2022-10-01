@@ -1,7 +1,8 @@
 # Shop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
-
+In this project, I want to show you a filtering technique with Angular, which I just started learning.
+This project, I made filtering operations on the services. The filterText you typed in the input field is always input's under, but here the products do not come from a database. I am planning to add categories or products by developing the program, this is just a beginner level program after all.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
